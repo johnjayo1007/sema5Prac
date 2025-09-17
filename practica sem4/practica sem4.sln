@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica sem4", "practica sem4\practica sem4.csproj", "{012EAE19-DF1E-4DFB-B84A-295289232115}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "practica python  sem4", "practica python  sem4\practica python  sem4.pyproj", "{F8DF5031-5CA1-46B7-A44C-2C51A528B75E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012EAE19-DF1E-4DFB-B84A-295289232115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012EAE19-DF1E-4DFB-B84A-295289232115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012EAE19-DF1E-4DFB-B84A-295289232115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012EAE19-DF1E-4DFB-B84A-295289232115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DF5031-5CA1-46B7-A44C-2C51A528B75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DF5031-5CA1-46B7-A44C-2C51A528B75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4EED39-FF91-4BBF-B1BB-00808C313339}
+	EndGlobalSection
+EndGlobal
