@@ -173,17 +173,27 @@ namespace practica_sem5
                 cuo = pagcicfi / 5;
             }
 
-
             Console.WriteLine("\nSu pago del ciclo es de: " + pagcicfi);
+
             Console.WriteLine("\nEl monto a pagar de tu carrera es: "+ pagcic);
+
             Console.WriteLine("\nEl total de creditos que llevaras es de: " + Creditos);
+
             Console.WriteLine("\nEl monto a Pagar por creditos es de: "+ monpacre);
+
             Console.WriteLine("\nEl descuento que obtendras por tus notas es de: " + monpano);
+
             Console.WriteLine("\nEl descuento que obtendras por procedencia de Colegio (N/P) es de:" + monpaco);
+
             Console.WriteLine("\nEl Descuento por Pago completo es de: "+ pagcom);
+
             Console.WriteLine("\nEl Incremento por Pago en cuotas es de: " + pagcuo);
+
             Console.WriteLine("\nEl Pago por mes (5cuotas) es de: " + cuo);
+
             Console.WriteLine("\nEl monto total a pagar es de: "+ pagcicfi);
+
+
             Console.ReadKey();
         }
     }
